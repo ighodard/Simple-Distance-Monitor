@@ -17,6 +17,9 @@ An active buzzer and 3 LED's were used for the distance warnings.
 # Code:
 [Code](Simple_Distance_Detector.ino)
 
+# Demo Video:
+[Watch the Demo on YouTube](https://www.youtube.com/shorts/oynMuxzbOHU)
+
 # Usage:
 Ensure you have all the necessary components and complete the circuit as shown above. It's extremely important to double-check wiring before you add power, especially to prevent a short circuit.
 Power the microcontroller via USB from a Personal Computer or an external source.
